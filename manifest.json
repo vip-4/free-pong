@@ -1,0 +1,27 @@
+{
+  "name": "PONG Online - Classic Arcade Game",
+  "short_name": "PONG",
+  "description": "Play PONG online for free! Classic 1972 Atari arcade game rebuilt in HTML5.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "landscape",
+  "categories": ["games", "entertainment", "arcade"],
+  "prefer_related": false,
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
